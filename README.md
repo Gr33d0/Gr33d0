@@ -1,4 +1,4 @@
-## I'm Gabriel 👋
+## I'm Jonas 👋
 
 <table>
   <tr>
@@ -7,10 +7,10 @@
   </tr>
   <tr>
     <td>
-      <img alt="GitHub stats" src="https://github-readme-stats.vercel.app/api?username=JonasGomesM&show_icons=true&theme=transparent"/>
+      <img alt="GitHub stats" src="https://github-readme-stats.vercel.app/api?username=JonasGomes&show_icons=true&theme=transparent"/>
     </td>
     <td>
-      <img alt="Top languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JonasGomesM&layout=compact&langs_count=6&theme=transparent"/>
+      <img alt="Top languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JonasGomes&layout=compact&langs_count=6&theme=transparent"/>
     </td>
   </tr>
 </table>
